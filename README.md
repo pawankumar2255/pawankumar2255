@@ -13,8 +13,7 @@ Hello, I'm Pawan kumar
 
 ## ☎️ CONTACT ME
 
-[![Linkedin Badge](https://img.shields.io/badge/-Pawan kumar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ankit-maurya-481890219/)](https://www.linkedin.com/in/ankit-maurya-481890219/)
-[![Gmail Badge](https://img.shields.io/badge/-pawankumars2255@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pawankumars2255@gmail.com)](mailto:pawankumars2255@gmail.com)
+[![Linkedin Badge]https://www.linkedin.com/in/pawan-songra-b1b427217/[![Gmail Badge](https://img.shields.io/badge/-pawankumars2255@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pawankumars2255@gmail.com)](mailto:pawankumars2255@gmail.com)
 
 
 <br />
